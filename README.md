@@ -1,5 +1,6 @@
 # HelloWorld
 This is my first repository!
+![headshot](AB5E7C20-0FC0-443E-91D6-7F8D76CA4B52.jpeg)
 # A little insight into Sheridan Barrington
 Hi Everyone! My name is Sheridan Barrington and I am enrolled in a coding bootcamp. This README will give you a bit of information about me! 
 # My Carrer Passions
